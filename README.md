@@ -2,11 +2,11 @@
 ## Description
 The app consist in a "replica" of a very famous social network, with much more simpler functionalities.
 
-| <img src="Media/GitHub_Register.gif" width="200" /> | <img src="Media/GitHub_Post.gif" width="200" /> | <img src="Media/GitHub_Feed_Profile.gif" width="200" /> |
+| <img src="Videos/Register flow.mp4" width="200" /> | <img src="Videos/Post flow.mp4" width="200" /> | <img src="Videos/Feed flow.mp4" width="200" /> |
 | - | - | - |
 | Register flow | Post flow | Feed flow |
 
-| <img src="Media/GitHub_Register.gif" width="200" /> | <img src="Media/GitHub_Post.gif" width="200" /> | <img src="Media/GitHub_Feed_Profile.gif" width="200" /> |
+| <img src="Videos/Login flow.mp4" width="200" /> | <img src="Videos/Search flow.mp4" width="200" /> | <img src="Videos/Profile flow.mp4" width="200" /> |
 | - | - | - |
 | Login flow | Search flow | Profile flow |
 
