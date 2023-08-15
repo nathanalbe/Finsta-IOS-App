@@ -31,3 +31,4 @@ This app is a clone of the very famous social network, Instagram with some of it
 - [ ] Feed only from followers
 - [ ] Comments
 - [ ] Messages
+- [ ] Third party login
